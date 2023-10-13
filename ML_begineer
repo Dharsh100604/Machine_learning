@@ -1,1 +1,5 @@
-
+Pandas:
+* Analyze big data and conclusion based on statistical theory.
+* Importing and exporting tabular data in various formats, such as CSV or JSON  files. 
+* Pandas does not persist data.
+* It even has a (slow) function called TO_SQL that will persist your pandas data frame to an RDBMS table.
